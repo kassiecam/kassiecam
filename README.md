@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kassandra
-- I’m currently learning Bootstrap, React, and Javascript ES6
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiecam&layout=compact&theme=vue-dark)](https://github.com/kassiecam/github-readme-stats)
 
